@@ -1,5 +1,5 @@
-# OpenMask3D 🛋
-## Open-Vocabulary 3D Instance Segmentation 
+# SegFit
+## Robust Human Registration with Body Part Segmentation on Noisy Point Clouds 
 <div align="center">
 <a href="https://aycatakmaz.github.io/">Ay&#231;a Takmaz</a><sup>1*</sup>, &nbsp;&nbsp;&nbsp; <a href="https://elisabettafedele.github.io/">Elisabetta Fedele</a><sup>1*</sup>,
 <br />
@@ -19,10 +19,10 @@
 <h2 class="title is-3">BibTeX</h2>
           <pre><code>
 @inproceedings{takmaz2023openmask3d,
-  title={{OpenMask3D: Open-Vocabulary 3D Instance Segmentation}},
-  author={Takmaz, Ay{\c{c}}a and Fedele, Elisabetta and Sumner, Robert W. and Pollefeys, Marc and Tombari, Federico and Engelmann, Francis},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-year={2023}
+  title={{Robust Human Registration with Body Part Segmentation on Noisy Point Clouds}},
+  author={Lascheit, Kai and Barath, Daniel and Pollefeys, Marc and Guibas, Leonidas and Engelmann, Francis },
+  booktitle={},
+year={2025}
 }</code></pre>
     </div>
   </div>
